@@ -1,0 +1,869 @@
+Categories,Dimension,Notes,Value,Units,Driving/Driven
+
+General info,Name,,Martin Babarov,,Driving
+General info,e-mail,,m.babarov@email.bg,,Driving
+General info,Phone,,00359885651929,,Driving
+General info,Address 1,,,,Driving
+General info,Address 2,,,,Driving
+General info,Address 3,,,,Driving
+General info,Address 4,,,,Driving
+General info,Notes,,,,Driving
+General info,Title block notes,,,,Driving
+General info,Brand,,Martor,,Driving
+General info,Model,,Zenix,,Driving
+General info,Frame #,,,,Driving
+General info,Size,,14,,Driving
+General info,Model year,,2012,,Driving
+General info,Style,,MTB,,Driving
+General info,Primary material,,Carbon,,Driving
+General info,Logo (Down tube 1),,MARTOR,,Driving
+General info,Font (Down tube 1),,Imprint MT Shadow/ Plain,,Driving
+General info,Logo (Down tube 2),,N/A,,Driving
+General info,Font (Down tube 2),,N/A,,Driving
+General info,Logo (Seat tube 1),,N/A,,Driving
+General info,Font (Seat tube 1),,N/A,,Driving
+General info,Logo (Seat tube 2),,N/A,,Driving
+General info,Font (Seat tube 2),,N/A,,Driving
+General info,Logo (Top tube 1),,Zenix,,Driving
+General info,Font (Top tube 1),,Forte/ Plain,,Driving
+General info,Logo (Top tube 2),,N/A,,Driving
+General info,Font (Top tube 2),,N/A,,Driving
+General info,Logo (Stem 1),,N/A,,Driving
+General info,Font (Stem 1),,N/A,,Driving
+General info,Logo (Stem 2),,N/A,,Driving
+General info,Font (Stem 2),,N/A,,Driving
+General info,Logo (Rear Wheel 1),,N/A,,Driving
+General info,Font (Rear wheel 1),,N/A,,Driving
+General info,Logo (Rear Wheel 2),,N/A,,Driving
+General info,Font (Rear wheel 2),,N/A,,Driving
+General info,Logo (Front Wheel 1),,N/A,,Driving
+General info,Font (Front wheel 1),,N/A,,Driving
+General info,Logo (Front Wheel 2),,N/A,,Driving
+General info,Font (Front wheel 2),,N/A,,Driving
+General info,Logo (Fork 1),,         XCR,,Driving
+General info,Font (Fork 1),,Dialog/ Bold,,Driving
+General info,Logo (Fork 2),,N/A,,Driving
+General info,Font (Fork 2),,N/A,,Driving
+General info,Logo (Stem 1),,N/A,,Driving
+General info,Font (Stem 1),,N/A,,Driving
+General info,Logo (Stem 2),,N/A,,Driving
+General info,Font (Stem 2),,N/A,,Driving
+General info,Logo (Stem 1),,N/A,,Driving
+General info,Font (Stem 1),,N/A,,Driving
+General info,Logo (Stem 2),,N/A,,Driving
+General info,Font (Stem 2),,N/A,,Driving
+General info,Paint scheme,,Two Color Angled,,Driving
+General info,Relative front projection,Horizontal distance from the front hub to the steerer tube axis divided by the diameter of the front wheel,0.087,,Driven
+General info,Jones stability criterion  (Bicycling Science 2nd Edition),,-1.901,,Driven
+General info,Jones stability criterion  (Bicycling Science 3rd Edition),,0.067,,Driven
+Components/General,Aerobar pad reach,,400,mm,Driven
+Components/General,Aerobar reach to back of pad,,355,mm,Driven
+Components/General,Aerobar pad stack,,650,mm,Driven
+Components/General,Aerobar pad reach from saddle,,545,mm,Driven
+Components/General,Aerobar pad drop from saddle,,-203,mm,Driven
+Components/General,BB to front tire,,262,mm,Driven
+Components/General,Down tube to front tire,,103,mm,Driven
+Components/General,Effective seat tube angle,,72.1,°,Driven
+Components/General,End of handlebar reach,,379,mm,Driven
+Components/General,End of handlebar stack,,655,mm,Driven
+Components/General,End of handlebar reach from saddle,,524,mm,Driven
+Components/General,End of handlebar drop from saddle,,-208,mm,Driven
+Components/General,Handlebar drop,,-183,mm,Driven
+Components/General,Handlebar drop (top of bars),,-199,mm,Driven
+Components/General,Handlebar from BB (X),,400,mm,Driving
+Components/General,Handlebar from BB (Y),,630,mm,Driving
+Components/General,Handlebar from BB (Direct),,746,mm,Driven
+Components/General,Handlebar height off ground,,930,mm,Driven
+Components/General,Handlebar height off ground (handlebar end),,955,mm,Driven
+Components/General,Handlebar to front axle,,630,mm,Driven
+Components/General,Handlebar to front axle 2,,614,mm,Driven
+Components/General,Handlebar to front axle (X),,191,mm,Driven
+Components/General,Handlebar to seat tube axis,,599,mm,Driven
+Components/General,Lean angle,,36.8,°,Driven
+Components/General,Rear axle to tail of saddle (X),,128,mm,Driven
+Components/General,Rider compartment,,545,mm,Driven
+Components/General,Rider compartment (slanted),,575,mm,Driven
+Components/General,Saddle clamp to BB,,420,mm,Driven
+Components/General,Saddle clamp to BB (X),,146,mm,Driven
+Components/General,Saddle clamp to BB (Y),,394,mm,Driven
+Components/General,Saddle clamp to handlebar,,595,mm,Driven
+Components/General,Saddle from BB (X),,145,mm,Driven
+Components/General,Saddle from BB (Y),,447,mm,Driven
+Components/General,Saddle height,,470,mm,Driving
+Components/General,Saddle height off ground,,747,mm,Driven
+Components/General,Saddle setback,,-5,mm,Driven
+Components/General,Saddle tail to handlebar,,705,mm,Driven
+Components/General,Saddle tip to brake hood (Direct),,600,mm,Driven
+Components/General,Saddle tip to brake hood (Projected),,504,mm,Driven
+Components/General,Saddle tip to clamp,,159,mm,Driven
+Components/General,Saddle tip to handlebar end (Direct),,536,mm,Driven
+Components/General,Saddle tip to handlebar end (Projected),,426,mm,Driven
+Components/General,Saddle to handlebar reach,,434,mm,Driven
+Components/General,Saddle to handlebar reach 2,,418,mm,Driven
+Components/General,Saddle to handlebar reach (Horizontal),,395,mm,Driven
+Components/General,Saddle to drive side pedal,,548,mm,Driven
+Components/General,Saddle to non-drive side pedal,,448,mm,Driven
+Components/General,Shoe and crank size in toe overlap view,,N/A,,Driving
+Components/General,ISO 4210-2: 4.13.2.2 Toe clearance,,N/A,,Driven
+Components/General,ISO 4210-2: Annex A, b),,0,mm,Driven
+Components/General,W factor,,254,mm,Driven
+Components/Cranks,Standard,,Custom,,Driving
+Components/Cranks,Chainrings,,3,,Driving
+Components/Cranks,Range,,30/39/24,,Driving
+Components/Cranks,A,,173,mm,Driving
+Components/Cranks,B,,40,mm,Driving
+Components/Cranks,C,,30,mm,Driving
+Components/Cranks,D,,26,mm,Driving
+Components/Cranks,E,,14,mm,Driving
+Components/Cranks,F,,5,mm,Driving
+Components/Cranks,G,,3,mm,Driving
+Components/Cranks,H,,8,mm,Driving
+Components/Cranks,Q,,140,mm,Driving
+Components/Cranks,S,,127,mm,Driving
+Components/Cranks,L1,,51,mm,Driven
+Components/Cranks,W1,,35,mm,Driven
+Components/Cranks,L2,,81,mm,Driven
+Components/Cranks,W2,,43,mm,Driven
+Components/Cranks,L3,,63,mm,Driven
+Components/Cranks,W3,,51,mm,Driven
+Components/Cranks,L4,,188,mm,Driven
+Components/Cranks,W4,,56,mm,Driven
+Components/Handlebar,Standard,,Custom,,Driving
+Components/Handlebar,Style,,1,,Driving
+Components/Handlebar,Width,,650,mm,Driving
+Components/Handlebar,A,,16,mm,Driving
+Components/Handlebar,B,,38,mm,Driving
+Components/Handlebar,C,,10,mm,Driving
+Components/Handlebar,D,,25,mm,Driving
+Components/Handlebar,E,,35,mm,Driving
+Components/Handlebar,Y,,28,mm,Driven
+Components/Handlebar,α,,N/A,,Driven
+Components/Handlebar,R1,,N/A,,Driving
+Components/Handlebar,ϑ,,-31.4,°,Driven
+Components/Handlebar,R2,,40,mm,Driven
+Components/Handlebar,∠,,10.0,°,Driving
+Components/Handlebar,∠2,,-7.5,°,Driven
+Components/Headset,Standard,,Custom,,Driving
+Components/Headset,Extra headset spacers,,0,mm,Driven
+Components/Headset,Headset spacers,,10,mm,Driving
+Components/Headset,Lower stack height,,11,mm,Driving
+Components/Headset,Upper stack height,,11,mm,Driving
+Components/Rack,Standard,,Custom,,Driving
+Components/Rack,L,,330,mm,Driving
+Components/Rack,H,,350,mm,Driving
+Components/Rack,A,,170,mm,Driving
+Components/Rack,F,,170,mm,Driving
+Components/Rack,B,,56,mm,Driving
+Components/Rack,∠,,70.0,°,Driving
+Components/Rack,R,,15,mm,Driving
+Components/Rack,D,,10,mm,Driving
+Components/Rack,TA,,50,mm,Driving
+Components/Rack,TB,,10,mm,Driving
+Components/Rack,T2,,15,mm,Driving
+Components/Rack,E,,0,mm,Driving
+Components/Rack,Y1,,75,mm,Driving
+Components/Rack,R1,,15,mm,Driving
+Components/Rack,YA,,28,mm,Driving
+Components/Rack,RA,,15,mm,Driving
+Components/Rack,HA,,18,mm,Driving
+Components/Rack,G,,300,mm,Driving
+Components/Rack,Y2,,75,mm,Driving
+Components/Rack,R2,,15,mm,Driving
+Components/Rack,YB,,28,mm,Driving
+Components/Rack,RB,,15,mm,Driving
+Components/Rack,HB,,18,mm,Driving
+Components/Rack,FX,,N/A,,Driven
+Components/Rack,FY,,N/A,,Driven
+Components/Front rack,Standard,,Custom,,Driving
+Components/Front rack,L,,270,mm,Driving
+Components/Front rack,H,,290,mm,Driving
+Components/Front rack,A,,-200,mm,Driving
+Components/Front rack,F,,-230,mm,Driving
+Components/Front rack,B,,96,mm,Driving
+Components/Front rack,∠,,100.0,°,Driving
+Components/Front rack,R,,15,mm,Driving
+Components/Front rack,D,,10,mm,Driving
+Components/Front rack,TA,,20,mm,Driving
+Components/Front rack,TB,,23,mm,Driving
+Components/Front rack,T2,,3,mm,Driving
+Components/Front rack,E,,N/A,,Driving
+Components/Front rack,Y1,,N/A,,Driving
+Components/Front rack,R1,,N/A,,Driving
+Components/Front rack,YA,,0,mm,Driving
+Components/Front rack,RA,,15,mm,Driving
+Components/Front rack,HA,,0,mm,Driving
+Components/Front rack,G,,0,mm,Driving
+Components/Front rack,Y2,,75,mm,Driving
+Components/Front rack,R2,,15,mm,Driving
+Components/Front rack,YB,,28,mm,Driving
+Components/Front rack,RB,,15,mm,Driving
+Components/Front rack,HB,,18,mm,Driving
+Components/Front rack,FX,,20,mm,Driving
+Components/Front rack,FY,,80,mm,Driving
+Components/Saddle,Standard,,Custom,,Driving
+Components/Saddle,A,,148,mm,Driving
+Components/Saddle,B,,60,mm,Driving
+Components/Saddle,C,,3,mm,Driving
+Components/Saddle,D,,26,mm,Driving
+Components/Saddle,E,,34,mm,Driving
+Components/Saddle,F,,58,mm,Driving
+Components/Saddle,G,,20,mm,Driving
+Components/Saddle,H,,30,mm,Driving
+Components/Saddle,I,,45,mm,Driving
+Components/Saddle,J,,50,mm,Driving
+Components/Saddle,K,,15,mm,Driving
+Components/Saddle,L,,278,mm,Driving
+Components/Saddle,M,,25,mm,Driving
+Components/Saddle,N,,5,mm,Driving
+Components/Saddle,P,,10,mm,Driving
+Components/Saddle,P2,,158,mm,Driven
+Components/Saddle,Q,,52,mm,Driving
+Components/Saddle,Q2,,29,mm,Driven
+Components/Saddle,R,,70,mm,Driving
+Components/Saddle,∠,,10.0,°,Driving
+Components/Saddle,Angle,,10.0,°,Driving
+Components/Saddle,Saddle reference point (X),,0,mm,Driving
+Components/Saddle,Saddle reference point (Y),,0,mm,Driving
+Components/Saddle,Fore and aft,,1,mm,Driving
+Components/Seatpost,Standard,,Custom,,Driving
+Components/Seatpost,Aero,,false,,Driving
+Components/Seatpost,L,,300,mm,Driving
+Components/Seatpost,SB,,21,mm,Driving
+Components/Seatpost,A,,30,mm,Driving
+Components/Seatpost,B,,40,mm,Driving
+Components/Seatpost,C,,28,mm,Driving
+Components/Seatpost,D,,27,mm,Driving
+Components/Seatpost,R,,N/A,,Driven
+Components/Seatpost,D2,,N/A,,Driving
+Components/Seatpost,D3,,N/A,,Driving
+Components/Seatpost,N,,N/A,,Driven
+Components/Seatpost,L2,,N/A,,Driven
+Components/Seatpost,Length of seatpost exposed,,70,mm,Driven
+Components/Seatpost,Length of seatpost inserted,,230,mm,Driven
+Components/Sprockets,Standard,,Custom,,Driving
+Components/Sprockets,Sprockets,,8,,Driving
+Components/Sprockets,Range,,12/13/14/15/17/18/22/25,,Driving
+Components/Sprockets,A,,4,mm,Driving
+Components/Sprockets,T,,2,mm,Driving
+Components/Sprockets,Z,,8,mm,Driving
+Components/Stem,Standard,,Custom,,Driving
+Components/Stem,L,,55,mm,Driving
+Components/Stem,∠,,15.0,°,Driving
+Components/Stem,X,,53,mm,Driven
+Components/Stem,Y,,30,mm,Driven
+Components/Stem,F,,35,mm,Driving
+Components/Stem,E,,40,mm,Driving
+Components/Stem,G,,15,mm,Driving
+Components/Stem,H,,0,mm,Driving
+Components/Stem,J,,30,mm,Driving
+Components/Stem,K,,30,mm,Driving
+Components/Stem,M,,38,mm,Driving
+Components/Stem,N,,32,mm,Driving
+Fork,Standard,,Custom,,Driving
+Fork,Style,,2,,Driving
+Fork,Blade width,,40,mm,Driving
+Fork,Fork length,,465,mm,Driving
+Fork,Fork length (minus sag),,455,mm,Driven
+Fork,Fork length (Axle to crown),,468,mm,Driven
+Fork,Fork length (Axle to crown minus sag),,458,mm,Driven
+Fork,Fork offset (rake),,55,mm,Driving
+Fork,Steerer tube length (Threadless),,185,mm,Driven
+Fork,Steerer tube length (Threaded),,135,mm,Driven
+Fork,Tip diameter,,40,mm,Driving
+Fork,Brake hole to axle,,N/A,,Driving
+Fork,Brake hole to crown,,N/A,,Driving
+Fork,Brake hole angle,,N/A,,Driving
+Fork,Tire clearance/ interference at back of crown,,104,mm,Driven
+Fork,Tire clearance/ interference at front of crown,,101,mm,Driven
+Fork,Bottom edge of crown to axle,,430,mm,Driven
+Fork,Travel,,100,mm,Driving
+Fork,Sag,,10,mm,Driving
+Frame,BB drop,,30,mm,Driven
+Frame,BB drop (from front axle),,30,mm,Driven
+Frame,BB height,,300,mm,Driving
+Frame,Chain stay angle (Actual),,-3.7,°,Driven
+Frame,Chain stay angle (Rear axle to BB),,-4.3,°,Driven
+Frame,Chain stay length,,400,mm,Driving
+Frame,Chain stay - seat stay angle,,68.8,°,Driven
+Frame,Down tube angle,,53.2,°,Driven
+Frame,Down tube length (c-c),,638,mm,Driven
+Frame,Front center,,592,mm,Driven
+Frame,Head angle,,72.5,°,Driving
+Frame,Head angle,,72.5,°,Driving
+Frame,Head tube - Down tube junction to bottom of head tube,,55,mm,Driving
+Frame,Head tube - top tube junction to top of head tube,,27,mm,Driving
+Frame,Head tube extension above top tube,,14,mm,Driven
+Frame,Head tube extension below down tube,,12,mm,Driven
+Frame,Head tube length,,113,mm,Driven
+Frame,Reach,,365,mm,Driven
+Frame,Rear wheel gap,,25,mm,Driven
+Frame,Seat angle,,72.5,°,Driving
+Frame,Seat angle,,72.5,°,Driving
+Frame,Seat tube extension above top tube,,39,mm,Driven
+Frame,Seat tube length (c-c),,290,mm,Driving
+Frame,Seat tube length (c-t),,350,mm,Driven
+Frame,Seat tube length (effective),,566,mm,Driven
+Frame,Seat tube length (BB to top of top tube 1),,316,mm,Driven
+Frame,Seat tube length (BB to top of top tube 2),,572,mm,Driven
+Frame,Seat tube offset (total),,0,mm,Driven
+Frame,Seat tube - top tube junction to top of seat tube,,60,mm,Driving
+Frame,Setback,,170,mm,Driven
+Frame,Stack,,566,mm,Driven
+Frame,Standover height,,723,mm,Driven
+Frame,Standover height (front),,845,mm,Driven
+Frame,Standover height (rear),,602,mm,Driven
+Frame,Top tube angle,,29.8,°,Driven
+Frame,Top tube length (effective),,543,mm,Driven
+Frame,Top tube length (effective (Taiwanese)),,543,mm,Driven
+Frame,Top tube length (c-c),,530,mm,Driven
+Frame,Trail,,46,mm,Driven
+Frame,Front normal trail (Mechanical trail),,44,mm,Driven
+Frame,Rear normal trail,,988,mm,Driven
+Frame,Arctan(Trail/Wheel Radius),,8.0,°,Driven
+Frame,Wheelbase,,990,mm,Driven
+Frame,Wheel flop,,13,mm,Driven
+Jig setup,Alternative top tube measurement,,543,mm,Driven
+Jig setup,Angle from BB to top of seat tube,,72.5,°,Driven
+Jig setup,BB to lower edge of top tube at head tube junction,,624,mm,Driven
+Jig setup,BB to top tube - head tube junction,,656,mm,Driven
+Jig setup,BB to top tube - head tube junction (Horizontal),,373,mm,Driven
+Jig setup,BB to top tube - head tube junction (Vertical),,540,mm,Driven
+Jig setup,Chain stay length (Horizontal),,399,mm,Driven
+Jig setup,DEAN 1,,193,mm,Driven
+Jig setup,DEAN 2,,518,mm,Driven
+Jig setup,DEAN 3,,90.0,°,Driven
+Jig setup,DEAN 4,,336,mm,Driven
+Jig setup,Desert fox dimension,,460,mm,Driven
+Jig setup,Fork base to head tube/ top tube intersection,,552,mm,Driven
+Jig setup,Front center (Horizontal),,591,mm,Driven
+Jig setup,Gap between bottom of top tube and top of down tube at head tube junction,,4,mm,Driven
+Jig setup,Head tube bottom (X),,399,mm,Driven
+Jig setup,Head tube bottom (Y),,458,mm,Driven
+Jig setup,Head tube bottom (Direct),,607,mm,Driven
+Jig setup,Head tube bottom (Bike Machinery X),,518,mm,Driven
+Jig setup,Head tube bottom (Bike Machinery Y),,317,mm,Driven
+Jig setup,Head tube bottom (Henry James X),,543,mm,Driven
+Jig setup,Head tube bottom (Henry James Y),,480,mm,Driven
+Jig setup,Head tube bottom extension (X),,0,mm,Driving
+Jig setup,Head tube bottom extension (Y),,0,mm,Driving
+Jig setup,Head tube bottom to bottom of top tube,,63,mm,Driven
+Jig setup,JFX,,371,mm,Driven
+Jig setup,JFY,,149,mm,Driven
+Jig setup,Seat tube - chain stay interior angle,,68.8,°,Driven
+Jig setup,Seat tube miter to bottom edge of top tube,,256,mm,Driven
+Jig setup,Seat tube - top tube junction to BB (X),,87,mm,Driven
+Jig setup,Seat tube - top tube junction to BB (Y),,-277,mm,Driven
+Jig setup,Seat tube - top tube junction to head tube - down tube junction,,524,mm,Driven
+Mitering,Down tube bottom edge,,594,mm,Driven
+Mitering,Down tube front miter angle,,35.7,°,Driven
+Mitering,Down tube - head tube interior angle,,125.7,°,Driven
+Mitering,Down tube rear miter angle,,35.7,°,Driven
+Mitering,Down tube - seat tube interior angle,,54.3,°,Driven
+Mitering,Down tube - Seat tube notch,,36,mm,Driven
+Mitering,Down tube - Seat tube notch to edge of BB,,16,mm,Driven
+Mitering,Down tube - top tube interior angle,,23.5,°,Driven
+Mitering,Miter to miter distance along top of top tube,,491,mm,Driven
+Mitering,Miter to miter distance along bottom of top tube,,482,mm,Driven
+Mitering,Miter to miter distance along top of down tube,,590,mm,Driven
+Mitering,Miter to center of BB measured along top of down tube,,626,mm,Driven
+Mitering,Miter to center of BB measured along bottom of down tube,,594,mm,Driven
+Mitering,Miter to deepest point of BB miter measured along top of down tube,,606,mm,Driven
+Mitering,Miter to deepest point of BB miter measured along bottom of down tube,,574,mm,Driven
+Mitering,Seat stay miter angle,,12.4,°,Driven
+Mitering,Seat stay top joint angle,,77.6,°,Driven
+Mitering,Top face of seat tube to BB miter (measured along side of frame),,330,mm,Driven
+Mitering,Top face of seat tube to down tube intersection,,311,mm,Driven
+Mitering,Top face of seat tube to tip of BB miter,,338,mm,Driven
+Mitering,Top tube front miter angle,,-12.3,°,Driven
+Mitering,Top tube - head tube interior angle,,77.7,°,Driven
+Mitering,Top tube rear miter angle,,-12.3,°,Driven
+Mitering,Top tube - seat tube interior angle,,102.3,°,Driven
+Mitering,Miter to miter across bottom edge of stem,,29,mm,Driven
+Mitering,Miter to miter on bottom edge of stem to deepest point on front miter,,22,mm,Driven
+Mitering,Miter to miter on top edge of stem,,21,mm,Driven
+Mitering,Miter to miter on top edge of stem to deepest point on front miter,,14,mm,Driven
+Mitering,Top tube intersects down tube,,true,,Driven
+Down tube/Phase blocks,H,,100,mm,Driving
+Down tube/Phase blocks,L,,15,mm,Driving
+Down tube/Phase blocks,R,,20,mm,Driving
+Down tube/Phase blocks,Center to center,,653,mm,Driven
+Top tube/Phase blocks,H,,100,mm,Driving
+Top tube/Phase blocks,L,,15,mm,Driving
+Top tube/Phase blocks,R,,20,mm,Driving
+Top tube/Phase blocks,Center to center,,543,mm,Driven
+Braze-ons,Down tube shift boss,,105,mm,Driving
+Rider,A1,,318,mm,Driving
+Rider,A2,,318,mm,Driving
+Rider,L1,,406,mm,Driving
+Rider,L2,,406,mm,Driving
+Rider,L3,,81,mm,Driving
+Rider,NK,,166,mm,Driving
+Rider,TR,,501,mm,Driving
+Rider,Elbow angle,,112.8,°,Driven
+Rider,Hip angle,,82.4,°,Driven
+Rider,Knee angle,,65.7,°,Driven
+Rider,Shoulder angle,,22.4,°,Driven
+Rider,Torso angle,,77.6,°,Driven
+Rider,Inseam,,813,mm,Driving
+Rider,Shoe length,,275,mm,Driven
+Rider,CLTX,,-20,mm,Driving
+Rider,CLTY,,10,mm,Driving
+Rider,PT,,93,mm,Driven
+Rider,SHZ,,52,mm,Driving
+Rider,AD,,81,mm,Driving
+Rider,ED,,89,mm,Driving
+Rider,HD,,212,mm,Driven
+Rider,HJ,,49,mm,Driving
+Rider,KD,,113,mm,Driving
+Rider,PD,,232,mm,Driving
+Rider,SR,,37,mm,Driving
+Rider,Sitting position ↔,,0,mm,Driving
+Rider,Sitting position ↕,,0,mm,Driving
+Rider,Angle of the head,,-20.0,°,Driving
+Rider,BB to toe,,271,mm,Driven
+Rider,Saddle to hands,,567,mm,Driven
+Rider,Saddle to hands (Direct),,653,mm,Driven
+Rider,Saddle tip to hands,,430,mm,Driven
+Rider,Saddle tip to hands (Direct),,539,mm,Driven
+Rider,A,,1753,mm,Driving
+Rider,B,,1476,mm,Driving
+Rider,C,,813,mm,Driving
+Rider,D,,15,”,Driving
+Rider,E,,635,mm,Driving
+Rider,F,,432,mm,Driving
+Rider,Shoe size,,US 9    Euro 42,,Driving
+Stays (auxiliary view)/General,BB shell length,,68,mm,Driving
+Stays (auxiliary view)/General,Chain stay gap at BB,,20,mm,Driven
+Stays (auxiliary view)/General,Rear dropout spacing,,135,mm,Driving
+Stays (auxiliary view)/General,Offset in drive side direction,,0,mm,Driving
+Stays (auxiliary view)/General,Wishbone width,,N/A,,Driven
+Stays (auxiliary view)/General,Rear chainline,,51,mm,Driven
+Stays (auxiliary view)/General,Front chainline,,43,mm,Driven
+Stays (auxiliary view)/General,Chainline offset,,-8,mm,Driven
+Stays (auxiliary view)/Bridge,Miter to miter across front of chain stay bridge,,N/A,,Driven
+Stays (auxiliary view)/Bridge,Miter to miter across back of chain stay bridge,,N/A,,Driven
+Stays (auxiliary view)/Bridge,Miter to miter across top of seat stay bridge,,N/A,,Driven
+Stays (auxiliary view)/Bridge,Miter to miter across bottom of seat stay bridge,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,HR,,17,mm,Driving
+Stays (auxiliary view)/Chainstays/Drive side,HF,,18,mm,Driving
+Stays (auxiliary view)/Chainstays/Drive side,F,,15,mm,Driving
+Stays (auxiliary view)/Chainstays/Drive side,H,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,J,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,K,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,X,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,Z,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,Extension of outer face of BB from side edge of chain stay,,6,mm,Driven
+Stays (auxiliary view)/Chainstays/Drive side,Chain stay length,,369,mm,Driven
+Stays (auxiliary view)/Chainstays/Drive side,Chain stay length 2,,404,mm,Driven
+Stays (auxiliary view)/Chainstays/Drive side,Chain stay miter angle,,8.5,°,Driven
+Stays (auxiliary view)/Chainstays/Drive side,Angle at dropout,,8.5,°,Driven
+Stays (auxiliary view)/Chainstays/Drive side,A,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,B,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,R1,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,∠1,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,C,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,D,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,R2,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,∠2,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,E,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,F,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,R3,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Drive side,∠3,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,Z1,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,Z2,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,Z3,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,Z4,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,S1,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,S2,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,S3,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,S4,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Drive side,Center to center,,369,mm,Driven
+Stays (auxiliary view)/Chainstays/Drive side,E1,,0,mm,Driven
+Stays (auxiliary view)/Chainstays/Drive side,E2,,0,mm,Driven
+Stays (auxiliary view)/Chainstays/Drive side,Minimum length,,375,mm,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,HR,,17,mm,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,HF,,18,mm,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,F,,15,mm,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,H,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,J,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,K,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,X,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,Z,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,Extension of outer face of BB from side edge of chain stay,,6,mm,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,Chain stay length,,369,mm,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,Chain stay length 2,,404,mm,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,Chain stay miter angle,,8.5,°,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,Angle at dropout,,8.5,°,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,A,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,B,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,R1,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,∠1,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,C,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,D,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,R2,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,∠2,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,E,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,F,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,R3,,N/A,,Driving
+Stays (auxiliary view)/Chainstays/Non-drive side,∠3,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,Z1,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,Z2,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,Z3,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,Z4,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,S1,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,S2,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,S3,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,S4,,N/A,,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,Center to center,,369,mm,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,E1,,0,mm,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,E2,,0,mm,Driven
+Stays (auxiliary view)/Chainstays/Non-drive side,Minimum length,,375,mm,Driven
+Stays (auxiliary view)/Seatstays/Drive side,HR,,13,mm,Driving
+Stays (auxiliary view)/Seatstays/Drive side,HF,,17,mm,Driving
+Stays (auxiliary view)/Seatstays/Drive side,Z,,9,mm,Driving
+Stays (auxiliary view)/Seatstays/Drive side,J,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Drive side,K,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Drive side,Seat stay length,,380,mm,Driven
+Stays (auxiliary view)/Seatstays/Drive side,Angle at dropout,,9.8,°,Driven
+Stays (auxiliary view)/Seatstays/Drive side,A,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Drive side,B,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Drive side,R1,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Drive side,∠1,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Drive side,C,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Drive side,D,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Drive side,R2,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Drive side,∠2,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Drive side,E,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Drive side,F,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Drive side,R3,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Drive side,∠3,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Drive side,Z1,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Drive side,Z2,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Drive side,Z3,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Drive side,Z4,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Drive side,S1,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Drive side,S2,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Drive side,S3,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Drive side,S4,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Drive side,Center to center,,380,mm,Driven
+Stays (auxiliary view)/Seatstays/Drive side,E1,,0,mm,Driven
+Stays (auxiliary view)/Seatstays/Drive side,E2,,0,mm,Driven
+Stays (auxiliary view)/Seatstays/Drive side,Minimum length,,0,mm,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,HR,,13,mm,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,HF,,17,mm,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,Z,,-9,mm,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,J,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,K,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,Seat stay length,,380,mm,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,Angle at dropout,,9.8,°,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,A,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,B,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,R1,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,∠1,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,C,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,D,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,R2,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,∠2,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,E,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,F,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,R3,,N/A,,Driving
+Stays (auxiliary view)/Seatstays/Non-drive side,∠3,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,Z1,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,Z2,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,Z3,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,Z4,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,S1,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,S2,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,S3,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,S4,,N/A,,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,Center to center,,380,mm,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,E1,,0,mm,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,E2,,0,mm,Driven
+Stays (auxiliary view)/Seatstays/Non-drive side,Minimum length,,0,mm,Driven
+Tubing/BB,BB shell diameter,,40,mm,Driving
+Tubing/Chain stays/Drive side,VR,,17,mm,Driving
+Tubing/Chain stays/Drive side,VF,,30,mm,Driving
+Tubing/Chain stays/Drive side,T,,200,mm,Driving
+Tubing/Chain stays/Drive side,E,,0,mm,Driven
+Tubing/Chain stays/Drive side,G,,N/A,,Driving
+Tubing/Chain stays/Drive side,A,,N/A,,Driving
+Tubing/Chain stays/Drive side,B,,N/A,,Driving
+Tubing/Chain stays/Drive side,R1,,N/A,,Driving
+Tubing/Chain stays/Drive side,∠1,,N/A,,Driven
+Tubing/Chain stays/Drive side,C,,N/A,,Driving
+Tubing/Chain stays/Drive side,D,,N/A,,Driving
+Tubing/Chain stays/Drive side,R2,,N/A,,Driving
+Tubing/Chain stays/Drive side,∠2,,N/A,,Driven
+Tubing/Chain stays/Drive side,E,,N/A,,Driving
+Tubing/Chain stays/Drive side,F,,N/A,,Driving
+Tubing/Chain stays/Drive side,R3,,N/A,,Driving
+Tubing/Chain stays/Drive side,∠3,,N/A,,Driven
+Tubing/Chain stays/Drive side,Z1,,N/A,,Driven
+Tubing/Chain stays/Drive side,Z2,,N/A,,Driven
+Tubing/Chain stays/Drive side,Z3,,N/A,,Driven
+Tubing/Chain stays/Drive side,Z4,,N/A,,Driven
+Tubing/Chain stays/Drive side,S1,,N/A,,Driven
+Tubing/Chain stays/Drive side,S2,,N/A,,Driven
+Tubing/Chain stays/Drive side,S3,,N/A,,Driven
+Tubing/Chain stays/Drive side,S4,,N/A,,Driven
+Tubing/Chain stays/Drive side,Center to center,,385,mm,Driven
+Tubing/Chain stays/Drive side,E1,,0,mm,Driven
+Tubing/Chain stays/Drive side,E2,,0,mm,Driven
+Tubing/Chain stays/Drive side,Minimum length,,0,mm,Driven
+Tubing/Chain stays/Non-drive side,VR,,17,mm,Driving
+Tubing/Chain stays/Non-drive side,VF,,30,mm,Driving
+Tubing/Chain stays/Non-drive side,T,,200,mm,Driving
+Tubing/Chain stays/Non-drive side,E,,0,mm,Driven
+Tubing/Chain stays/Non-drive side,G,,N/A,,Driving
+Tubing/Chain stays/Non-drive side,A,,N/A,,Driving
+Tubing/Chain stays/Non-drive side,B,,N/A,,Driving
+Tubing/Chain stays/Non-drive side,R1,,N/A,,Driving
+Tubing/Chain stays/Non-drive side,∠1,,N/A,,Driven
+Tubing/Chain stays/Non-drive side,C,,N/A,,Driving
+Tubing/Chain stays/Non-drive side,D,,N/A,,Driving
+Tubing/Chain stays/Non-drive side,R2,,N/A,,Driving
+Tubing/Chain stays/Non-drive side,∠2,,N/A,,Driven
+Tubing/Chain stays/Non-drive side,E,,N/A,,Driving
+Tubing/Chain stays/Non-drive side,F,,N/A,,Driving
+Tubing/Chain stays/Non-drive side,R3,,N/A,,Driving
+Tubing/Chain stays/Non-drive side,∠3,,N/A,,Driven
+Tubing/Chain stays/Non-drive side,Z1,,N/A,,Driven
+Tubing/Chain stays/Non-drive side,Z2,,N/A,,Driven
+Tubing/Chain stays/Non-drive side,Z3,,N/A,,Driven
+Tubing/Chain stays/Non-drive side,Z4,,N/A,,Driven
+Tubing/Chain stays/Non-drive side,S1,,N/A,,Driven
+Tubing/Chain stays/Non-drive side,S2,,N/A,,Driven
+Tubing/Chain stays/Non-drive side,S3,,N/A,,Driven
+Tubing/Chain stays/Non-drive side,S4,,N/A,,Driven
+Tubing/Chain stays/Non-drive side,Center to center,,385,mm,Driven
+Tubing/Chain stays/Non-drive side,E1,,0,mm,Driven
+Tubing/Chain stays/Non-drive side,E2,,0,mm,Driven
+Tubing/Chain stays/Non-drive side,Minimum length,,0,mm,Driven
+Tubing/Bridge,Rear axle to chain stay brake hole,,N/A,,Driven
+Tubing/Bridge,Rear axle to chain stay bridge,,N/A,,Driving
+Tubing/Down tube,G,,45,mm,Driving
+Tubing/Down tube,J,,45,mm,Driving
+Tubing/Down tube,Leading edge offset,,22,mm,Driven
+Tubing/Down tube,Offset at BB,,0,mm,Driving
+Tubing/Down tube,A,,N/A,,Driving
+Tubing/Down tube,B,,N/A,,Driving
+Tubing/Down tube,R1,,N/A,,Driving
+Tubing/Down tube,∠1,,N/A,,Driven
+Tubing/Down tube,C,,N/A,,Driving
+Tubing/Down tube,D,,N/A,,Driving
+Tubing/Down tube,R2,,N/A,,Driving
+Tubing/Down tube,∠2,,N/A,,Driven
+Tubing/Down tube,E,,N/A,,Driving
+Tubing/Down tube,F,,N/A,,Driving
+Tubing/Down tube,R3,,N/A,,Driving
+Tubing/Down tube,∠3,,N/A,,Driven
+Tubing/Down tube,Z1,,N/A,,Driven
+Tubing/Down tube,Z2,,N/A,,Driven
+Tubing/Down tube,Z3,,N/A,,Driven
+Tubing/Down tube,Z4,,N/A,,Driven
+Tubing/Down tube,S1,,N/A,,Driven
+Tubing/Down tube,S2,,N/A,,Driven
+Tubing/Down tube,S3,,N/A,,Driven
+Tubing/Down tube,S4,,N/A,,Driven
+Tubing/Down tube,Center to center,,638,mm,Driven
+Tubing/Down tube,E1,,0,mm,Driven
+Tubing/Down tube,E2,,0,mm,Driven
+Tubing/Down tube,Minimum length,,638,mm,Driven
+Tubing/Head tube,∅,,45,mm,Driving
+Tubing/Head tube,A,,N/A,,Driving
+Tubing/Head tube,B,,N/A,,Driving
+Tubing/Head tube,C,,N/A,,Driving
+Tubing/Head tube,D,,N/A,,Driving
+Tubing/Head tube,d,,N/A,,Driving
+Tubing/Head tube,E,,N/A,,Driving
+Tubing/Seat stays/Drive side,VR,,13,mm,Driving
+Tubing/Seat stays/Drive side,VF,,17,mm,Driving
+Tubing/Seat stays/Drive side,T,,N/A,,Driving
+Tubing/Seat stays/Drive side,E,,45,mm,Driving
+Tubing/Seat stays/Drive side,F,,13,mm,Driven
+Tubing/Seat stays/Drive side,G,,N/A,,Driving
+Tubing/Seat stays/Drive side,R,,N/A,,Driving
+Tubing/Seat stays/Drive side,W,,N/A,,Driving
+Tubing/Seat stays/Drive side,Seat stay angle relative to horizontal,,40.6,°,Driven
+Tubing/Seat stays/Drive side,Seat stay length,,391,mm,Driven
+Tubing/Seat stays/Drive side,Seat stay length 2,,404,mm,Driven
+Tubing/Seat stays/Drive side,Wishbone clearance above tire,,N/A,,Driven
+Tubing/Seat stays/Drive side,A,,110,mm,Driving
+Tubing/Seat stays/Drive side,B,,50,mm,Driving
+Tubing/Seat stays/Drive side,R1,,150,mm,Driving
+Tubing/Seat stays/Drive side,∠1,,-35.1,°,Driven
+Tubing/Seat stays/Drive side,C,,N/A,,Driving
+Tubing/Seat stays/Drive side,D,,N/A,,Driving
+Tubing/Seat stays/Drive side,R2,,N/A,,Driving
+Tubing/Seat stays/Drive side,∠2,,N/A,,Driven
+Tubing/Seat stays/Drive side,E,,N/A,,Driving
+Tubing/Seat stays/Drive side,F,,N/A,,Driving
+Tubing/Seat stays/Drive side,R3,,N/A,,Driving
+Tubing/Seat stays/Drive side,∠3,,N/A,,Driven
+Tubing/Seat stays/Drive side,Z1,,121,mm,Driven
+Tubing/Seat stays/Drive side,Z2,,270,mm,Driven
+Tubing/Seat stays/Drive side,Z3,,N/A,,Driven
+Tubing/Seat stays/Drive side,Z4,,N/A,,Driven
+Tubing/Seat stays/Drive side,S1,,73,mm,Driven
+Tubing/Seat stays/Drive side,S2,,222,mm,Driven
+Tubing/Seat stays/Drive side,S3,,N/A,,Driven
+Tubing/Seat stays/Drive side,S4,,N/A,,Driven
+Tubing/Seat stays/Drive side,Center to center,,360,mm,Driven
+Tubing/Seat stays/Drive side,E1,,0,mm,Driven
+Tubing/Seat stays/Drive side,E2,,0,mm,Driven
+Tubing/Seat stays/Drive side,Minimum length,,390,mm,Driven
+Tubing/Seat stays/Non-drive side,VR,,13,mm,Driving
+Tubing/Seat stays/Non-drive side,VF,,17,mm,Driving
+Tubing/Seat stays/Non-drive side,T,,N/A,,Driving
+Tubing/Seat stays/Non-drive side,E,,45,mm,Driving
+Tubing/Seat stays/Non-drive side,F,,13,mm,Driven
+Tubing/Seat stays/Non-drive side,G,,N/A,,Driving
+Tubing/Seat stays/Non-drive side,R,,N/A,,Driving
+Tubing/Seat stays/Non-drive side,W,,N/A,,Driving
+Tubing/Seat stays/Non-drive side,Seat stay angle relative to horizontal,,40.6,°,Driven
+Tubing/Seat stays/Non-drive side,Seat stay length,,391,mm,Driven
+Tubing/Seat stays/Non-drive side,Seat stay length 2,,404,mm,Driven
+Tubing/Seat stays/Non-drive side,Wishbone clearance above tire,,N/A,,Driven
+Tubing/Seat stays/Non-drive side,A,,110,mm,Driving
+Tubing/Seat stays/Non-drive side,B,,50,mm,Driving
+Tubing/Seat stays/Non-drive side,R1,,150,mm,Driving
+Tubing/Seat stays/Non-drive side,∠1,,-35.1,°,Driven
+Tubing/Seat stays/Non-drive side,C,,N/A,,Driving
+Tubing/Seat stays/Non-drive side,D,,N/A,,Driving
+Tubing/Seat stays/Non-drive side,R2,,N/A,,Driving
+Tubing/Seat stays/Non-drive side,∠2,,N/A,,Driven
+Tubing/Seat stays/Non-drive side,E,,N/A,,Driving
+Tubing/Seat stays/Non-drive side,F,,N/A,,Driving
+Tubing/Seat stays/Non-drive side,R3,,N/A,,Driving
+Tubing/Seat stays/Non-drive side,∠3,,N/A,,Driven
+Tubing/Seat stays/Non-drive side,Z1,,121,mm,Driven
+Tubing/Seat stays/Non-drive side,Z2,,270,mm,Driven
+Tubing/Seat stays/Non-drive side,Z3,,N/A,,Driven
+Tubing/Seat stays/Non-drive side,Z4,,N/A,,Driven
+Tubing/Seat stays/Non-drive side,S1,,73,mm,Driven
+Tubing/Seat stays/Non-drive side,S2,,222,mm,Driven
+Tubing/Seat stays/Non-drive side,S3,,N/A,,Driven
+Tubing/Seat stays/Non-drive side,S4,,N/A,,Driven
+Tubing/Seat stays/Non-drive side,Center to center,,360,mm,Driven
+Tubing/Seat stays/Non-drive side,E1,,0,mm,Driven
+Tubing/Seat stays/Non-drive side,E2,,0,mm,Driven
+Tubing/Seat stays/Non-drive side,Minimum length,,390,mm,Driven
+Tubing/Bridge,Rear axle to seat stay brake hole,,352,mm,Driving
+Tubing/Bridge,Rear axle to seat stay bridge,,N/A,,Driven
+Tubing/Seat tube,A,,N/A,,Driving
+Tubing/Seat tube,B,,N/A,,Driving
+Tubing/Seat tube,C,,N/A,,Driving
+Tubing/Seat tube,∅ at bottom,,32,mm,Driving
+Tubing/Seat tube,∅ at top,,32,mm,Driving
+Tubing/Seat tube,Leading edge offset,,16,mm,Driven
+Tubing/Seat tube,Offset at BB,,0,mm,Driving
+Tubing/Seat tube,Depth of rear wheel cutout into seat tube,,N/A,,Driven
+Tubing/Seat tube,Top rear point of seat tube to top of wheel cutout,,N/A,,Driven
+Tubing/Seat tube,Wheel cut ∅,,N/A,,Driving
+Tubing/Seat tube,J,,N/A,,Driven
+Tubing/Seat tube,K,,N/A,,Driven
+Tubing/Seat tube,A,,N/A,,Driving
+Tubing/Seat tube,B,,N/A,,Driving
+Tubing/Seat tube,R1,,N/A,,Driving
+Tubing/Seat tube,∠1,,N/A,,Driven
+Tubing/Seat tube,C,,N/A,,Driving
+Tubing/Seat tube,D,,N/A,,Driving
+Tubing/Seat tube,R2,,N/A,,Driving
+Tubing/Seat tube,∠2,,N/A,,Driven
+Tubing/Seat tube,E,,N/A,,Driving
+Tubing/Seat tube,F,,N/A,,Driving
+Tubing/Seat tube,R3,,N/A,,Driving
+Tubing/Seat tube,∠3,,N/A,,Driven
+Tubing/Seat tube,Z1,,N/A,,Driven
+Tubing/Seat tube,Z2,,N/A,,Driven
+Tubing/Seat tube,Z3,,N/A,,Driven
+Tubing/Seat tube,Z4,,N/A,,Driven
+Tubing/Seat tube,S1,,N/A,,Driven
+Tubing/Seat tube,S2,,N/A,,Driven
+Tubing/Seat tube,S3,,N/A,,Driven
+Tubing/Seat tube,S4,,N/A,,Driven
+Tubing/Seat tube,Center to center,,350,mm,Driven
+Tubing/Seat tube,E1,,0,mm,Driven
+Tubing/Seat tube,E2,,0,mm,Driven
+Tubing/Seat tube,Minimum length,,1045,mm,Driven
+Tubing/Top tube,G,,35,mm,Driving
+Tubing/Top tube,J,,35,mm,Driving
+Tubing/Top tube,A,,N/A,,Driving
+Tubing/Top tube,B,,N/A,,Driving
+Tubing/Top tube,R1,,N/A,,Driving
+Tubing/Top tube,∠1,,N/A,,Driven
+Tubing/Top tube,C,,N/A,,Driving
+Tubing/Top tube,D,,N/A,,Driving
+Tubing/Top tube,R2,,N/A,,Driving
+Tubing/Top tube,∠2,,N/A,,Driven
+Tubing/Top tube,E,,N/A,,Driving
+Tubing/Top tube,F,,N/A,,Driving
+Tubing/Top tube,R3,,N/A,,Driving
+Tubing/Top tube,∠3,,N/A,,Driven
+Tubing/Top tube,Z1,,N/A,,Driven
+Tubing/Top tube,Z2,,N/A,,Driven
+Tubing/Top tube,Z3,,N/A,,Driven
+Tubing/Top tube,Z4,,N/A,,Driven
+Tubing/Top tube,S1,,N/A,,Driven
+Tubing/Top tube,S2,,N/A,,Driven
+Tubing/Top tube,S3,,N/A,,Driven
+Tubing/Top tube,S4,,N/A,,Driven
+Tubing/Top tube,Center to center,,530,mm,Driven
+Tubing/Top tube,E1,,0,mm,Driven
+Tubing/Top tube,E2,,0,mm,Driven
+Tubing/Top tube,Minimum length,,517,mm,Driven
+Rear dropouts,Standard,,Custom,,Driving
+Rear dropouts,Style,,Socket,,Driving
+Rear dropouts,Eyelets,,2,,Driving
+Rear dropouts,Cx,,15,mm,Driving
+Rear dropouts,Cy,,-5,mm,Driving
+Rear dropouts,Cz,,6,mm,Driving
+Rear dropouts,Sx,,10,mm,Driving
+Rear dropouts,Sy,,13,mm,Driving
+Rear dropouts,Sz,,6,mm,Driving
+Rear dropouts,C2x,,15,mm,Driving
+Rear dropouts,C2y,,-5,mm,Driving
+Rear dropouts,C2z,,6,mm,Driving
+Rear dropouts,S2x,,10,mm,Driving
+Rear dropouts,S2y,,13,mm,Driving
+Rear dropouts,S2z,,6,mm,Driving
+Rear dropouts,L,,27,mm,Driving
+Rear dropouts,X,,10,mm,Driving
+Rear dropouts,A,,10,mm,Driving
+Rear dropouts,T,,6,mm,Driving
+Rear dropouts,ξ,,-90.0,°,Driving
+Rear dropouts,D,,8,mm,Driving
+Rear dropouts,∅,,11,mm,Driving
+Rear dropouts,d,,6,mm,Driving
+Rear dropouts,E,,N/A,,Driven
+Rear dropouts,F,,N/A,,Driven
+Rear dropouts,G,,N/A,,Driven
+Rear dropouts,R,,N/A,,Driven
+Rear dropouts,p,,5,mm,Driving
+Rear dropouts,t,,1,mm,Driving
+Rear dropouts,R1,,18,mm,Driving
+Rear dropouts,A1,,100.0,°,Driving
+Rear dropouts,R2,,20,mm,Driving
+Rear dropouts,A2,,150.0,°,Driving
+Rear dropouts,Z,,0,mm,Driving
+Rear dropouts,Y,,N/A,,Driving
+Rear dropouts,S,,N/A,,Driving
+Rear dropouts,ϑ,,0.0,°,Driving
+Rear dropouts,Looped stay radius,,0,mm,Driven
+Rear dropouts,Extension for looped stays,,0,mm,Driven
+Wheels/Front,Standard,,Custom,,Driving
+Wheels/Front,Style,,Spoked,,Driving
+Wheels/Front,Tire ∅,,660,mm,Driving
+Wheels/Front,W,,23,mm,Driving
+Wheels/Front,Bead seat diameter,,570,mm,Driving
+Wheels/Front,Effective rim diameter,,540,mm,Driving
+Wheels/Front,Drive side spoke length,,261,mm,Driven
+Wheels/Front,Non-drive side spoke length,,261,mm,Driven
+Wheels/Rear,Standard,,Custom,,Driving
+Wheels/Rear,Style,,Spoked,,Driving
+Wheels/Rear,Tire ∅,,660,mm,Driving
+Wheels/Rear,W,,23,mm,Driving
+Wheels/Rear,Bead seat diameter,,570,mm,Driving
+Wheels/Rear,Effective rim diameter,,540,mm,Driving
+Wheels/Rear,Drive side spoke length,,261,mm,Driven
+Wheels/Rear,Non-drive side spoke length,,261,mm,Driven
